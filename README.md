@@ -1,7 +1,7 @@
 # Transfer-learning-on-food-images
 Group project for the master course 'Applied machine learning'. Classification of unstructured data while using applications of transfer learning.
 
-
+The poster below shows the concept we applied to train our best classifier. Our approach could have been executed better, if more layers were retrained. This required high amount of computing power, which we didn't have.
 
 
 
