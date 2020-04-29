@@ -7,6 +7,7 @@ Group project for the master course 'Applied machine learning'. Classification o
 
 
 
+<img src="./Transfer Bagging - AML Poster.png">
 
 
 Practical info:
